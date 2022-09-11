@@ -1,8 +1,8 @@
-### Development
-* Add Fisherman's Outfit to the Wardrobe
-* Add Auto-Fisher 3000 + Functions
-* Code Moor Pearl Bag
-* Code Case of Mystery Bottles
+### Shop Content
+* Ore Bag
+* Barrel
+* Rift Pouch
+* Engraved Bag
 
 ### Location
 Realm of Souls
